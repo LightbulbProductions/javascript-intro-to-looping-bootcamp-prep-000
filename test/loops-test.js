@@ -51,5 +51,5 @@ describe('loops', () => {
 
       console.log.reset()
     })
-  });
-
+  })
+})
