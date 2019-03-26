@@ -28,3 +28,5 @@ do {
 return array;
 
 }
+
+//took  out part of test for there is something wrong
